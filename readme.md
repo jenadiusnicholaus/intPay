@@ -5,11 +5,23 @@ intPay is an open-source mobile payment gateway that simplifies the integration 
 ## Key Features
 
 - **Easy Integration**: Simple and straightforward integration process, allowing developers to quickly add mobile payment functionality to their applications.
+
+
 - **Multi-Provider Support**: Support for popular telecom providers such as MPesa, TigoPesa, HaloPesa, and more, giving users flexibility in choosing their preferred payment method.
+
+
 - **Secure Payment Processing**: Robust security measures to ensure the confidentiality and integrity of payment data, protecting user transactions.
+
+
 - **Developer-Friendly API**: intPay provides a developer-friendly API with clear documentation and code examples, making it easy to implement and customize mobile payment workflows.
+
+
 - **Data Validation and Error Handling**: Comprehensive data validation and reliable error handling mechanisms for accurate payment processing and a smooth user experience.
+
+
 - **Scalable and Reliable**: Built on a scalable architecture, intPay is designed to handle high transaction volumes while ensuring consistent performance.
+
+
 - **Extensive Documentation**: Detailed documentation, including installation instructions, API reference, and code samples, to assist developers in seamlessly integrating intPay into their projects.
 
 ## Getting Started
